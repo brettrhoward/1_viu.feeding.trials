@@ -1,0 +1,61 @@
+date.run,trial.no,prey,bin.no,crab.no,initial.count,initial.weight,final.count,final.weight,num.fully.eaten,num.attacked,weight.difference,est.weight.eaten,gaped,collected.by,notes
+21-Oct-21,A-1,mussels,1,GRA-Lg02,48,429.5,48,430.1,0,0,-0.6,0,1,BH,
+21-Oct-21,A-1,mussels,3,GRA-Lg05,49,341.6,25,319.8,24,2,21.8,31.776,3,BH,
+21-Oct-21,A-1,mussels,5,EGC-01,57,613.6,39,571.8,18,0,41.8,23.832,2,BH,
+21-Oct-21,A-1,mussels,7,EGC-13,50,797.4,34,770.6,16,1,26.8,21.184,0,BH,2 consumed but remained attached to rock
+21-Oct-21,A-1,mussels,9,GRA-Sm13,58,729,65,724.3,2,0,4.7,2.648,0,BH,"must have miscounted, 2 eaten for sure based on debris"
+22-Oct-21,B-1,mussels,1,GRA-Lg09,59,481.7,58,481.8,1,0,-0.1,1.324,6,BH,
+22-Oct-21,B-1,mussels,3,GRA-Lg16,54,1068.9,51,1073.3,3,0,-4.4,3.972,1,BH,
+22-Oct-21,B-1,mussels,5,EGC-04,46,306.8,24,269.1,22,1,37.7,29.128,0,BH,3 consumed but still attached
+22-Oct-21,B-1,mussels,7,EGC-19,50,655.2,26,623.6,24,1,31.6,31.776,0,BH,2 consumed but remained attached to rock
+22-Oct-21,B-1,mussels,9,GRA-Sm09,52,1031.5,49,1032.6,3,0,-1.1,3.972,1,BH,
+23-Oct-21,C-1,mussels,1,GRA-Lg28,51,541.7,47,536.5,4,0,5.2,5.296,4,BH,no obvious sign of predation 
+23-Oct-21,C-1,mussels,3,GRA-Lg12,49,857,39,818.7,10,0,38.3,13.24,1,BH,
+23-Oct-21,C-1,mussels,5,EGC-15,49,398.7,19,351.1,30,3,47.6,39.72,0,BH,6 eaten and still attached
+23-Oct-21,C-1,mussels,7,EGC-41,54,613.2,49,599,5,0,14.2,6.62,0,BH,2 eaten and still attached
+23-Oct-21,C-1,mussels,9,GRA-Sm08,49,283.9,40,278.9,9,0,5,11.916,1,BH,1 eaten and still attached
+27-Oct-21,A-2,mussels,1,GRA-Lg33,43,726.9,9,682.7,34,0,44.2,45.016,0,BH,
+27-Oct-21,A-2,mussels,3,GRA-Lg22,43,876,43,877.7,0,0,-1.7,0,0,BH,no obvious sign of predation 
+27-Oct-21,A-2,mussels,5,EGC-03,52,738,14,680.9,38,0,57.1,50.312,0,BH,
+27-Oct-21,A-2,mussels,7,GRA-Sm12,52,553,52,552.7,0,0,0.3,0,3,BH,no obvious sign of predation 
+27-Oct-21,A-2,mussels,9,GRA-Sm24,46,1029.1,33,852,13,0,177.1,17.212,0,BH,
+28-Oct-21,B-2,mussels,1,GRA-Lg31,49,592.9,28,576.1,21,0,16.8,27.804,0,BH,20 added loose at setup
+28-Oct-21,B-2,mussels,3,GRA-Lg18,50,861.3,33,839.6,17,1,21.7,22.508,1,BH,one attacked but not eaten 
+28-Oct-21,B-2,mussels,5,EGC-10,49,426.3,20,380.1,29,0,46.2,38.396,0,BH,16 mussels added loose at setup
+28-Oct-21,B-2,mussels,7,GRA-Sm26,44,293.7,44,293.7,0,0,0,0,0,BH,"no predation, 6 mussels added loose at setup"
+28-Oct-21,B-2,mussels,9,GRA-Sm16,49,1057.2,36,1038.5,13,0,18.7,17.212,1,BH,30 mussels added at the setup 
+29-Oct-21,C-2,mussels,1,GRA-Lg32,54,626.6,54,625,0,0,1.6,0,0,CW,
+29-Oct-21,C-2,mussels,3,GRA-Lg13,53,771.4,34,741.4,19,1,30,25.156,0,CW,
+29-Oct-21,C-2,mussels,5,EGC-16,42,591.7,33,581.6,9,0,10.1,11.916,0,CW,
+29-Oct-21,C-2,mussels,7,GRA-Sm18,49,364.7,47,361.8,2,0,2.9,2.648,0,CW,
+29-Oct-21,C-2,mussels,9,GRA-Sm11,50,836,50,828,0,0,8,0,0,CW,
+23-Nov-21,D-6,mussels,1,EGC-25,57,439.7,53,426.7,4,0,13,5.296,NA,MY,
+23-Nov-21,D-6,mussels,3,GRA-Lg25,42,656.1,41,649.6,1,0,6.5,1.324,6,MY,
+23-Nov-21,D-6,mussels,5,GRA-Lg27,47,452.6,47,450.4,0,0,2.2,0,0,MY,
+23-Nov-21,D-6,mussels,7,EGC-42,43,533,35,521,8,0,12,10.592,2,MY,
+23-Nov-21,D-6,mussels,9,EGC-27,44,475.3,23,362.6,21,3,112.7,27.804,4,MY,
+29-Nov-21,D-7,mussels,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,LV/MY,
+29-Nov-21,D-7,mussels,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,LV/MY,
+29-Nov-21,D-7,mussels,5,EGC-12,50,786,14,737.5,36,NA,48.5,47.664,NA,LV/MY,
+29-Nov-21,D-7,mussels,7,GRA-Sm11,55,1025,52,1019,3,NA,6,3.972,NA,LV/MY,
+29-Nov-21,D-7,mussels,9,EGC-36,50,578.9,29,557.9,21,NA,21,27.804,NA,LV/MY,
+24-Nov-21,E-6,mussels,1,EGC-05,NA,NA,NA,NA,NA,NA,NA,NA,NA,BH/CW,
+24-Nov-21,E-6,mussels,3,EGC-09,54,600.9,15,564.6,39,NA,36.3,51.636,NA,BH/CW,
+24-Nov-21,E-6,mussels,5,EGC-29,50,793.1,30,775.8,20,NA,17.3,26.48,NA,BH/CW,
+24-Nov-21,E-6,mussels,7,GRA-Sm06,42,689.3,42,689.3,0,NA,0,0,NA,BH/CW,
+24-Nov-21,E-6,mussels,9,EGC-14,48,793.9,16,761.9,32,NA,32,42.368,NA,BH/CW,
+30-Nov-21,E-7,mussels,1,EGC-08,49,552,10,514.1,39,1,37.9,51.636,0,MY,
+30-Nov-21,E-7,mussels,3,EGC-11,49,833.5,31,820,18,0,13.5,23.832,0,MY,
+30-Nov-21,E-7,mussels,5,EGC-35,52,1021.2,13,985.8,39,0,35.4,51.636,0,MY,
+30-Nov-21,E-7,mussels,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,MY,
+30-Nov-21,E-7,mussels,9,EGC-30,50,1059.6,37,1042.4,13,0,17.2,17.212,0,MY,
+25-Nov-21,F-6,mussels,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,BH/MY,
+25-Nov-21,F-6,mussels,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,BH/MY,
+25-Nov-21,F-6,mussels,5,EGC-06,52,650.7,39,645.6,13,0,5.1,17.212,1,BH/MY,
+25-Nov-21,F-6,mussels,7,EGC-18,42,689.3,11,655.2,31,0,34.1,41.044,0,BH/MY,
+25-Nov-21,F-6,mussels,9,EGC-33,51,823.3,35,808.2,16,0,15.1,21.184,0,BH/MY,
+01-Dec-21,F-7,mussels,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CW/BH,
+01-Dec-21,F-7,mussels,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CW/BH,
+01-Dec-21,F-7,mussels,5,EGC-06,41,1567.6,23,1550.7,18,2,16.9,23.832,0,CW/BH,
+01-Dec-21,F-7,mussels,7,EGC-18,40,1141.3,12,1117.7,28,2,23.6,37.072,0,CW/BH,
+01-Dec-21,F-7,mussels,9,EGC-33,42,1445,37,1444.9,5,0,0.1,6.62,1,CW/BH,

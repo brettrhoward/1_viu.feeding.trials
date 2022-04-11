@@ -1,0 +1,61 @@
+date.run,trial.no,prey,bin.no,crab.no,initial.count,initial.weight,final.count,final.weight,num.fully.eaten,num.attacked,sum.weight.consumed,collected.by,notes
+02-Nov-21,A-3,japanese.littleneck,1,GRA-Lg02,12,111.6,12,111.6,0,0,0,BH,2 not fully buried at start
+02-Nov-21,A-3,japanese.littleneck,3,NA,NA,NA,NA,NA,NA,NA,NA,BH,crab died before exp. 
+02-Nov-21,A-3,japanese.littleneck,5,EGC-01,12,131.2,10,111.6,2,0,19.6,BH,1 not fully buried 
+02-Nov-21,A-3,japanese.littleneck,7,EGC-13,12,116.1,12,116.1,0,0,0,BH,3 not fully buried
+02-Nov-21,A-3,japanese.littleneck,9,GRA-Sm13,12,116.7,12,116.7,0,0,0,BH,
+08-Nov-21,A-4,japanese.littleneck,1,GRA-Lg33,12,98.8,12,98.8,0,0,0,AP/LV/MY,4 not buried at start
+08-Nov-21,A-4,japanese.littleneck,3,GRA-Lg22,12,99.9,12,99.9,0,0,0,AP/LV/MY,2 not fully buried at start
+08-Nov-21,A-4,japanese.littleneck,5,EGC-03,12,94.2,6,57,0,0,37.2,AP/LV/MY,2 not fully buried at start
+08-Nov-21,A-4,japanese.littleneck,7,GRA-Sm34,12,83.9,12,83.9,0,0,0,AP/LV/MY,3 not buried
+08-Nov-21,A-4,japanese.littleneck,9,GRA-Sm27,12,99.1,10,80.2,0,0,18.9,AP/LV/MY,
+03-Nov-21,B-3,japanese.littleneck,1,GRA-Lg26,12,97.3,12,97.3,0,0,0,BH,2 not fully buried at start
+03-Nov-21,B-3,japanese.littleneck,3,GRA-Lg16,12,87.3,12,87.3,0,0,0,BH,
+03-Nov-21,B-3,japanese.littleneck,5,EGC-04,12,90,9,74.8,3,0,15.2,BH,2 not fully buried at start
+03-Nov-21,B-3,japanese.littleneck,7,EGC-19,12,99.9,12,99.9,0,0,0,BH,1 not fully buried 
+03-Nov-21,B-3,japanese.littleneck,9,GRA-Sm09,12,80.4,12,80.4,0,0,0,BH,2 not fully buried at start
+09-Nov-21,B-4,japanese.littleneck,1,GRA-Lg31,12,126.9,12,126.9,0,0,0,MY,2 not fully buried at start
+09-Nov-21,B-4,japanese.littleneck,3,EGC-23,12,122,12,122,0,0,0,MY,5 not buried
+09-Nov-21,B-4,japanese.littleneck,5,EGC-10,12,110.8,9,80.1,3,0,30.7,MY,4 not buried at start
+09-Nov-21,B-4,japanese.littleneck,7,EGC-24,12,115.6,8,82.4,4,0,33.2,MY,4 not buried at start
+09-Nov-21,B-4,japanese.littleneck,9,EGC-26,12,118.8,12,118.8,0,0,0,MY,2 not fully buried at start
+04-Nov-21,C-3,japanese.littleneck,1,EGC-29,12,117.7,11,111.7,1,0,6,CW,3 not buried at start
+04-Nov-21,C-3,japanese.littleneck,3,GRA-Lg12,12,112.4,12,112.4,0,0,0,CW,
+04-Nov-21,C-3,japanese.littleneck,5,EGC-15,12,120.7,12,120.7,0,0,0,CW,1 not fully buried 
+04-Nov-21,C-3,japanese.littleneck,7,EGC-41,12,94.1,12,94.1,0,0,0,CW,3 not buried
+04-Nov-21,C-3,japanese.littleneck,9,EGC-31,12,101.1,12,101.1,0,0,0,CW,3 not buried at start
+10-Nov-21,C-4,japanese.littleneck,1,GRA-Lg32,12,105.9,12,105.9,0,0,0,CW/BH,1 not fully buried 
+10-Nov-21,C-4,japanese.littleneck,3,EGC-34,12,96.9,11,95.1,1,1,1.8,CW/BH,"3 not buried, attempted pred occurred right at end of trial "
+10-Nov-21,C-4,japanese.littleneck,5,EGC-16,12,89.4,12,89.4,0,1,0,CW/BH,"1 not buried, attempted pred occurred right at end of trial "
+10-Nov-21,C-4,japanese.littleneck,7,EGC-32,12,92.7,9,86.8,3,0,5.9,CW/BH,2 not fully buried at start
+10-Nov-21,C-4,japanese.littleneck,9,GRA-Sm11,12,82.5,12,82.5,0,0,0,CW/BH,3 not buried at start
+24-Oct-21,D-1,japanese.littleneck,1,GRA-Lg11,12,106.6,12,106.6,0,0,0,BH,
+24-Oct-21,D-1,japanese.littleneck,3,GRA-Lg15,12,103.4,12,103.4,0,0,0,BH,
+24-Oct-21,D-1,japanese.littleneck,5,EGC-12,12,110.3,9,90,3,0,20.3,BH,
+24-Oct-21,D-1,japanese.littleneck,7,GRA-Sm22,12,103.6,12,103.6,0,0,0,BH,
+24-Oct-21,D-1,japanese.littleneck,9,GRA-Sm20,12,101.2,12,101.2,0,0,0,BH,
+05-Dec-21,D-8,japanese.littleneck,1,EGC-25,12,105.2,12,105.2,0,0,0,AP,2 not buried
+05-Dec-21,D-8,japanese.littleneck,3,NA,NA,NA,NA,NA,NA,NA,NA,AP,
+05-Dec-21,D-8,japanese.littleneck,5,NA,NA,NA,NA,NA,NA,NA,NA,AP,
+05-Dec-21,D-8,japanese.littleneck,7,EGC-42,12,96.9,12,96.9,0,0,0,AP,1 not buried
+05-Dec-21,D-8,japanese.littleneck,9,EGC-27,12,99.1,12,99.1,0,0,0,AP,2 not buried
+25-Oct-21,E-1,japanese.littleneck,1,EGC-08,12,102,7,64.1,5,0,37.9,BH,
+25-Oct-21,E-1,japanese.littleneck,3,EGC-11,12,102.6,12,102.6,0,0,0,BH,
+25-Oct-21,E-1,japanese.littleneck,5,GRA-Sm31,12,99.9,12,99.9,0,0,0,BH,
+25-Oct-21,E-1,japanese.littleneck,7,GRA-Sm10,12,99.9,12,99.9,0,0,0,BH,1 not buried
+25-Oct-21,E-1,japanese.littleneck,9,GRA-Sm19,12,96.5,12,96.5,0,0,0,BH,1 not buried
+06-Dec-21,E-8,japanese.littleneck,1,NA,NA,NA,NA,NA,NA,NA,NA,AP/MY,
+06-Dec-21,E-8,japanese.littleneck,3,NA,NA,NA,NA,NA,NA,NA,NA,AP/MY,
+06-Dec-21,E-8,japanese.littleneck,5,NA,NA,NA,NA,NA,NA,NA,NA,AP/MY,
+06-Dec-21,E-8,japanese.littleneck,7,GRA-Sm06,12,106.7,12,106.7,0,0,0,AP/MY,4 not buried at start
+06-Dec-21,E-8,japanese.littleneck,9,EGC-14,12,95.5,9,53,3,0,42.5,AP/MY,4 not buried at start
+26-Oct-21,F-1,japanese.littleneck,1,GRA-Lg03,12,94.8,9,72.9,3,0,21.9,BH,
+26-Oct-21,F-1,japanese.littleneck,3,EGC-02,12,112.5,12,112.5,0,0,0,BH,1 not fully buried 
+26-Oct-21,F-1,japanese.littleneck,5,EGC-07,12,99.5,12,99.5,0,0,0,BH,
+26-Oct-21,F-1,japanese.littleneck,7,GRA-Sm05,12,97.7,12,97.7,0,0,0,BH,1 not fully buried 
+26-Oct-21,F-1,japanese.littleneck,9,GRA-Sm33,12,98.5,12,98.5,0,0,0,BH,
+07-Dec-21,F-8,japanese.littleneck,1,NA,NA,NA,NA,NA,NA,NA,NA,MY/BH,
+07-Dec-21,F-8,japanese.littleneck,3,NA,NA,NA,NA,NA,NA,NA,NA,MY/BH,
+07-Dec-21,F-8,japanese.littleneck,5,EGC-06,12,107.5,12,107.5,0,0,0,MY/BH,3 unburied 
+07-Dec-21,F-8,japanese.littleneck,7,EGC-18,12,102.8,7,55,5,0,47.8,MY/BH,1 unburied
+07-Dec-21,F-8,japanese.littleneck,9,EGC-33,12,95.5,12,95.5,0,0,0,MY/BH,2 unburied

@@ -1,0 +1,61 @@
+date.run,trial.no,prey,bin.no,crab.no,initial.count,initial.weight,final.count,final.weight,num.fully.eaten,num.attacked,sum.weight.consumed,collected.by,notes
+14-Nov-21,A-5,varnish.clam,1,EGC-20,3,47,2,27.5,1,0,19.5,AP/LV,2 not buried 
+14-Nov-21,A-5,varnish.clam,3,EGC-22,3,38.4,2,18.7,1,0,19.7,AP/LV,1 not buried
+14-Nov-21,A-5,varnish.clam,5,NA,NA,NA,NA,NA,NA,NA,NA,AP/LV,
+14-Nov-21,A-5,varnish.clam,7,EGC-13,3,41.7,3,41.7,0,0,0,AP/LV,
+14-Nov-21,A-5,varnish.clam,9,EGC-37,3,46.5,3,46.5,0,0,0,AP/LV,1 not buried
+20-Nov-21,A-6,varnish.clam,1,GRA-Lg33,3,37.9,3,37.9,0,0,0,MY/LV,
+20-Nov-21,A-6,varnish.clam,3,GRA-Lg22,3,44.9,2,22.7,1,0,22.2,MY/LV,2 not buried 
+20-Nov-21,A-6,varnish.clam,5,EGC-03,3,49.8,1,21.3,2,0,28.5,MY/LV,2 not buried 
+20-Nov-21,A-6,varnish.clam,7,GRA-Sm34,3,49.5,3,49.5,0,0,0,MY/LV,1 not buried
+20-Nov-21,A-6,varnish.clam,9,GRA-Sm27,3,40.7,3,40.7,0,0,0,MY/LV,
+15-Nov-21,B-5,varnish.clam,1,GRA-Lg26,3,46.4,3,46.4,0,0,0,LV/MY,3 not buried
+15-Nov-21,B-5,varnish.clam,3,GRA-Lg16,3,41.5,3,41.5,0,0,0,MY/LV,1 not predation 
+15-Nov-21,B-5,varnish.clam,5,EGC-04,3,30.9,1,3.1,2,0,27.8,MY/LV,2 not buried 
+15-Nov-21,B-5,varnish.clam,7,NA,NA,NA,NA,NA,NA,NA,NA,MY/LV,
+15-Nov-21,B-5,varnish.clam,9,GRA-Sm09,3,41.9,3,41.9,0,0,0,LV/MY,2 not buried
+21-Nov-21,B-6,varnish.clam,1,GRA-Lg31,3,32.9,3,32.9,0,0,0,LV/AP,1 not buried
+21-Nov-21,B-6,varnish.clam,3,EGC-23,3,39.6,3,39.6,0,0,0,LV/AP,
+21-Nov-21,B-6,varnish.clam,5,EGC-10,3,54.8,3,54.8,0,0,0,LV/AP,1 not buried
+21-Nov-21,B-6,varnish.clam,7,EGC-24,3,37.9,1,3.5,2,0,34.4,LV/AP,3 not buried
+21-Nov-21,B-6,varnish.clam,9,GRA-Sm16,3,47.2,2,21.2,1,0,26,LV/AP,2 not buried
+16-Nov-21,C-5,varnish.clam,1,EGC-39,3,48.6,3,48.6,0,0,0,MY/LV,
+16-Nov-21,C-5,varnish.clam,3,EGC-31,3,44.4,3,44.4,0,0,0,MY/LV,1 not buried
+16-Nov-21,C-5,varnish.clam,5,EGC-15,3,45.7,3,45.7,0,0,0,MY/LV,1 not buried
+16-Nov-21,C-5,varnish.clam,7,EGC-41,3,41.8,3,41.8,0,0,0,MY/LV,1 not buried
+16-Nov-21,C-5,varnish.clam,9,EGC-43,3,52.3,2,47.6,1,0,4.7,MY/LV,1 not buried
+22-Nov-21,C-6,varnish.clam,1,NA,NA,NA,NA,NA,NA,NA,NA,AP/MY,
+22-Nov-21,C-6,varnish.clam,3,EGC-34,3,42.6,2,21.1,1,0,21.5,AP/MY,1 not buried 
+22-Nov-21,C-6,varnish.clam,5,EGC-16,3,40.9,3,40.9,0,0,0,AP/MY,2 not buried
+22-Nov-21,C-6,varnish.clam,7,EGC-32,3,46,2,24.7,1,0,21.3,AP/MY,
+22-Nov-21,C-6,varnish.clam,9,EGC-40,3,42.1,2,21.3,1,0,20.8,AP/MY,1 not buried
+30-Oct-21,D-2,varnish.clam,1,GRA-Lg06,2,25.6,2,25.6,0,0,0,BH,
+30-Oct-21,D-2,varnish.clam,3,GRA-Lg25,2,20.3,2,20.3,0,0,0,BH,
+30-Oct-21,D-2,varnish.clam,5,GRA-Lg27,2,17.4,2,17.4,0,0,0,BH,1 clam not buried
+30-Oct-21,D-2,varnish.clam,7,EGC-42,2,15.5,2,15.5,0,0,0,BH,
+30-Oct-21,D-2,varnish.clam,9,GRA-Sm17,2,22.2,2,22.2,0,0,0,BH,
+05-Nov-21,D-3,varnish.clam,1,GRA-Lg11,3,53.4,3,53.4,0,0,0,CW/MY,1 not buried
+05-Nov-21,D-3,varnish.clam,3,GRA-Lg15,3,37.2,3,37.2,0,0,0,CW/MY,1 not buried
+05-Nov-21,D-3,varnish.clam,5,EGC-12,3,45.9,2,42.3,1,0,3.6,CW/MY,1 not buried
+05-Nov-21,D-3,varnish.clam,7,GRA-Sm22,3,35.6,3,35.6,0,0,0,CW/MY,2 not buried
+05-Nov-21,D-3,varnish.clam,9,EGC-36,3,41.2,3,41.2,0,0,0,CW/MY,
+31-Oct-21,E-2,varnish.clam,1,EGC-05,3,40.6,3,40,0,0,0.6,BH/MY,3 not buried
+31-Oct-21,E-2,varnish.clam,3,EGC-09,3,45.9,1,4.6,2,0,41.3,BH/MY,
+31-Oct-21,E-2,varnish.clam,5,GRA-Sm03,3,39,3,39,0,0,0,BH/MY,3 not buried
+31-Oct-21,E-2,varnish.clam,7,GRA-Sm06,3,44.3,3,44.3,0,0,0,BH/MY,1 not buried
+31-Oct-21,E-2,varnish.clam,9,EGC-14,3,39.1,3,39.1,0,0,0,BH/MY,
+06-Nov-21,E-3,varnish.clam,1,EGC-08,3,43.5,1,19.6,2,0,23.9,MY/AP/LV,1 not buried
+06-Nov-21,E-3,varnish.clam,3,EGC-11,3,40.5,3,40.5,0,0,0,MY/AP/LV,3 not buried
+06-Nov-21,E-3,varnish.clam,5,GRA-Sm25,3,46.2,3,46.2,0,0,0,MY/AP/LV,
+06-Nov-21,E-3,varnish.clam,7,GRA-Sm10,3,40,3,40,0,0,0,MY/AP/LV,
+06-Nov-21,E-3,varnish.clam,9,GRA-Sm19,3,45.6,3,45.6,0,0,0,MY/AP/LV,1 not buried
+01-Nov-21,F-2,varnish.clam,1,GRA-Lg24,4,40.1,4,40.1,0,0,0,LV/MY,
+01-Nov-21,F-2,varnish.clam,3,GRA-Lg19,4,53.4,4,53.4,0,0,0,LV/MY,1 not buried
+01-Nov-21,F-2,varnish.clam,5,EGC-06,4,50.2,3,27.1,1,0,23.1,LV/MY,1 not buried
+01-Nov-21,F-2,varnish.clam,7,EGC-18,4,59.7,2,27.9,2,1,31.8,LV/MY,2 not buried
+01-Nov-21,F-2,varnish.clam,9,GRA-Sm07,4,48.7,4,48.7,0,0,0,LV/MY,"attempted predation, siphon found"
+07-Nov-21,F-3,varnish.clam,1,GRA-Lg03,3,47.2,2,29.1,1,0,18.1,LV/AP,1 not buried
+07-Nov-21,F-3,varnish.clam,3,EGC-02,3,36.5,2,18.8,1,0,17.7,LV/AP,1 not buried
+07-Nov-21,F-3,varnish.clam,5,EGC-07,3,39.2,3,39.2,0,0,0,LV/AP,
+07-Nov-21,F-3,varnish.clam,7,GRA-Sm05,3,51.4,2,41.6,1,0,9.8,LV/AP,1 not buried
+07-Nov-21,F-3,varnish.clam,9,GRA-Sm33,3,45.4,3,45.4,0,0,0,LV/AP,
