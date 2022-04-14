@@ -1,5 +1,7 @@
 rm(list=ls())
 setwd("../1_viu.feeding.trials")
+# setwd("~/Academic Projects/CFRA 2021 - Mesocosms/1_viu.feeding.trials")
+
 source("../../../../EGC Models CSAS/ggplot-custom-theme.R")
 
 library(plyr)
@@ -10,6 +12,15 @@ library(reshape)
 
 
 # Load data 
+# datafile1 <- "~/Academic Projects/CFRA 2021 - Mesocosms/1_viu.feeding.trials/data/individual_crab_data.csv"
+# datafile2 <- "~/Academic Projects/CFRA 2021 - Mesocosms/1_viu.feeding.trials/data/hsc_trials.csv"
+# datafile3 <- "~/Academic Projects/CFRA 2021 - Mesocosms/1_viu.feeding.trials/data/hermit_trials.csv"
+# datafile4 <- "~/Academic Projects/CFRA 2021 - Mesocosms/1_viu.feeding.trials/data/dire_trials.csv"
+# datafile5 <- "~/Academic Projects/CFRA 2021 - Mesocosms/1_viu.feeding.trials/data/littleneck_trials.csv"
+# datafile6 <- "~/Academic Projects/CFRA 2021 - Mesocosms/1_viu.feeding.trials/data/mussel_trials.csv"
+# datafile7 <- "~/Academic Projects/CFRA 2021 - Mesocosms/1_viu.feeding.trials/data/psc_trials.csv"
+# datafile8 <- "~/Academic Projects/CFRA 2021 - Mesocosms/1_viu.feeding.trials/data/varnish_trials.csv"
+
 datafile1 <- "../data/individual_crab_data.csv"
 datafile2 <- "../data/hsc_trials.csv"
 datafile3 <- "../data/hermit_trials.csv"
